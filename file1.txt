@@ -1,3 +1,3 @@
 This is a dummy file with a lot of texts
-Please add one more line
+This line has been modified
 and the 3rd one
